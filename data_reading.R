@@ -78,6 +78,8 @@ for (i in 2:length(ids)) {
 toc()
 beep()
 
+# remove whitespace from variable names
+colnames(dat) <- str_remove_all(colnames(dat), " ")
 
 #write csv
 write_csv(dat, "lab-divisions.csv")

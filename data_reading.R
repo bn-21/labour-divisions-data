@@ -88,11 +88,11 @@ for (i in 2:length(ids)) {
 toc()
 beep()
 
-# convert NAs to did not vote
-na_to_dnv <- function(x) {
-  if_else(is.na(x), "Did_Not_Vote", x)
+# convert did not vote to NAs
+dnv_to_na <- function(x) {
+  if_else(x == "Did_Not_Vote", as.character(NA), x)
 }
-dat <- dat %>% mutate_all(na_to_dnv)
+dat <- dat %>% mutate_all(dnv_to_na)
 
 # write csv
 write_csv(dat, "lab-divisions.csv")

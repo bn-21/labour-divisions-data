@@ -1,0 +1,327 @@
+[
+	{
+		"id": "pine",
+		"type": "article-newspaper",
+		"abstract": "Allies of Jeremy Corbyn have drawn up a secret list ranking Labour MPs according to their loyalty to the party leader. The league table grades…",
+		"container-title": "LabourList",
+		"language": "en-GB",
+		"title": "Leaked list ranks Labour MPs by “hostility” to Corbyn",
+		"URL": "https://labourlist.org/2016/03/leaked-list-ranks-labour-mps-by-hostility-to-corbyn/",
+		"author": [
+			{
+				"family": "Pine",
+				"given": "Sarah"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					2,
+					17
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "coates",
+		"type": "article-newspaper",
+		"abstract": "Jeremy Corbyn’s allies have ranked every Labour MP by their loyalty to the leadership, labelling Rosie Winterton, the chief whip, and Sadiq Khan, the party’s candidate for mayor of London, as",
+		"container-title": "the Times",
+		"ISSN": "0140-0460",
+		"language": "en",
+		"section": "news",
+		"source": "www.thetimes.co.uk",
+		"title": "Corbyn’s secret list of ‘hostile’ Labour MPs",
+		"URL": "https://www.thetimes.co.uk/article/chief-whip-on-secret-corbyn-list-of-hostile-labour-mps-hc09zg7kf",
+		"author": [
+			{
+				"family": "Coates",
+				"given": "Sam"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					1
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					3,
+					23
+				]
+			]
+		}
+	},
+	{
+		"id": "wagner",
+		"type": "article-journal",
+		"abstract": "Competent public agencies are associated with better economic outcomes. Beyond competence, political leaders need to secure the loyalty of their agencies. Unfortunately, several theories predict a tradeoff between these two valued features. This paper finds that recruitment into agencies is meritocratic where (1) agency officials have poor outside options, (2) careers in agencies are long-lasting, and (3) agency loyalty is important. Moreover, agency competence is lower when (4) loyalty is important but the time horizon is short, and (5) outside opportunities improve but the time horizon is long. This evidence fits best with a theory of loyalty as non-contractible behavior.",
+		"container-title": "Public Choice",
+		"ISSN": "0048-5829",
+		"issue": "1/2",
+		"note": "publisher: Springer",
+		"page": "145-162",
+		"source": "JSTOR",
+		"title": "Loyalty and competence in public agencies",
+		"URL": "https://www.jstor.org/stable/41483621",
+		"volume": "146",
+		"author": [
+			{
+				"family": "Wagner",
+				"given": "Alexander F."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2011"
+				]
+			]
+		}
+	},
+	{
+		"id": "hol",
+		"type": "webpage",
+		"abstract": "Members of the House of Lords are appointed by the Queen on the advice of the prime minister",
+		"language": "en",
+		"title": "How members are appointed",
+		"URL": "https://www.parliament.uk/business/lords/whos-in-the-house-of-lords/members-and-their-roles/how-members-are-appointed/",
+		"author": [
+			{
+				"family": "UK Parliament",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2021"
+				]
+			]
+		}
+	},
+	{
+		"id": "ers",
+		"type": "webpage",
+		"abstract": "The House of Lords is often assumed to be more independent than the Commons because it is less strongly whipped and because it contains Crossbench members who do not have a party affilia",
+		"language": "en-US",
+		"title": "Party over Principle: Independence in the Lords",
+		"title-short": "Party over Principle",
+		"URL": "https://www.electoral-reform.org.uk/party-over-principle-independence-in-the-lords/",
+		"author": [
+			{
+				"family": "Electoral Reform Society",
+				"given": ""
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2016",
+					10,
+					9
+				]
+			]
+		}
+	},
+	{
+		"id": "brexit",
+		"type": "article-newspaper",
+		"abstract": "Deputy leader urges shadow cabinet reshuffle, saying he no longer recognises his own party",
+		"container-title": "the Guardian",
+		"language": "en",
+		"note": "section: Politics",
+		"title": "Labour: Watson tells Corbyn he must change direction to stop party splitting",
+		"title-short": "Labour",
+		"URL": "http://www.theguardian.com/politics/2019/feb/18/chuka-umunna-and-other-mps-set-to-quit-labour-party",
+		"author": [
+			{
+				"family": "Mason",
+				"given": "Rowena"
+			},
+			{
+				"family": "Elgot",
+				"given": "Jessica"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					8
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019",
+					2,
+					19
+				]
+			]
+		}
+	},
+	{
+		"id": "clust",
+		"type": "article-journal",
+		"container-title": "Psychometrika",
+		"DOI": "10.1007/BF02289263",
+		"ISSN": "1860-0980",
+		"issue": "4",
+		"journalAbbreviation": "Psychometrika",
+		"language": "en",
+		"note": "Company: Springer\nDistributor: Springer\nInstitution: Springer\nLabel: Springer\nnumber: 4\npublisher: Springer-Verlag",
+		"page": "267-276",
+		"source": "link.springer.com",
+		"title": "Who belongs in the family?",
+		"URL": "https://link.springer.com/article/10.1007/BF02289263",
+		"volume": "18",
+		"author": [
+			{
+				"family": "Thorndike",
+				"given": "Robert L."
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1953",
+					12,
+					1
+				]
+			]
+		}
+	},
+	{
+		"id": "cheap",
+		"type": "article-journal",
+		"abstract": "This paper develops a model of strategic communication, in which a better-informed Sender (S) sends a possibly noisy signal to a Receiver (R), who then takes an action that determines the welfare of both. We characterize the set of Bayesian Nash equilibria under standard assumptions, and show that equilibrium signaling always takes a strikingly simple form, in which S partitions the support of the (scalar) variable that represents his private information and introduces noise into his signal by reporting, in effect, only which element of the partition his observation actually lies in. We show under further assumptions that before S observes his private information, the equilibrium whose partition has the greatest number of elements is Pareto-superior to all other equilibria, and that if agents coordinate on this equilibrium, R's equilibrium expected utility rises when agents' preferences become more similar. Since R bases his choice of action on rational expectations, this establishes a sense in which equilibrium signaling is more informative when agents' preferences are more similar.",
+		"container-title": "Econometrica",
+		"DOI": "10.2307/1913390",
+		"ISSN": "0012-9682",
+		"issue": "6",
+		"note": "publisher: [Wiley, Econometric Society]",
+		"page": "1431-1451",
+		"source": "JSTOR",
+		"title": "Strategic Information Transmission",
+		"URL": "https://www.jstor.org/stable/1913390",
+		"volume": "50",
+		"author": [
+			{
+				"family": "Crawford",
+				"given": "Vincent P."
+			},
+			{
+				"family": "Sobel",
+				"given": "Joel"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"1982"
+				]
+			]
+		}
+	},
+	{
+		"id": "gamble",
+		"type": "article-journal",
+		"container-title": "The Political Quarterly",
+		"DOI": "https://doi.org/10.1111/1467-923X.12643",
+		"ISSN": "1467-923X",
+		"issue": "S2",
+		"language": "en",
+		"note": "_eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1111/1467-923X.12643",
+		"page": "177-186",
+		"source": "Wiley Online Library",
+		"title": "The Realignment of British Politics in the Wake of Brexit",
+		"URL": "https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-923X.12643",
+		"volume": "90",
+		"author": [
+			{
+				"family": "Gamble",
+				"given": "Andrew"
+			}
+		],
+		"accessed": {
+			"date-parts": [
+				[
+					"2021",
+					4,
+					9
+				]
+			]
+		},
+		"issued": {
+			"date-parts": [
+				[
+					"2019"
+				]
+			]
+		}
+	}
+]

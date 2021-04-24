@@ -1,13 +1,8 @@
-#load libraries
-library(tidyverse)
-library(rvest)
-library(hansard)
-library(tictoc)
-library(beepr)
-library(here)
+# load libraries
+pacman::p_load(tidyverse, rvest, hansard, tictoc, beepr, here)
 
 
-#pull vector of votes IDs in relevant time period
+# pull vector of votes IDs in relevant time period
 ids <- commons_divisions(start_date = "2015-05-07", end_date = "2017-06-08") %>% 
   pull(about)
 
